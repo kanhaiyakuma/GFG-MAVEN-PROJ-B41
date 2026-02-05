@@ -5,6 +5,7 @@ public class MyCalc {
 	{
 		return a+b;
 	}
+	
 	public int diff(int a, int b)
 	{
 		return a-b;
